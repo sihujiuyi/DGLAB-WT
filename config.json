@@ -1,0 +1,14 @@
+{
+    "crew_deal": 0.0,
+    "vehicles_deal": 0,
+    "s_a": 0.0,
+    "s_b": 0.0,
+    "base_s": 0.0,
+    "cd_a": 5.0,
+    "cd_b": 5.0,
+    "vd_a": 20.0,
+    "vd_b": 20.0,
+    "fjgz": 2.0,
+    "is_aircraft": false,
+    "fjgz_threshold": 3.0
+}
