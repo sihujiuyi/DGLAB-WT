@@ -15,12 +15,12 @@ logging.basicConfig(
 
 def map_strength(value):
     """
-    将强度值映射到设备的有效范围（0 到 100 的整数）
+    将强度值映射到设备的有效范围（0 到 200 的整数）
     """
     if value < 0:
         return 0
-    elif value > 100:
-        return 100
+    elif value > 200:
+        return 200
     return int(value)
 
 async def connect_to_device(dglab_instance):
