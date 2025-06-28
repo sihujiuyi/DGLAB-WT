@@ -29,14 +29,8 @@
    ```bash
    pip install -r requirements.txt
    ```
-
    使用uv（推荐）：
-
-   1.在当前目录下指定Python3.13创建项目
-   ```bash
-   uv init -p 3.13
-   ```
-   2.根据pyproject.toml自动安装依赖
+   1.根据pyproject.toml自动安装依赖
    ```bash
    uv sync 
    ```
