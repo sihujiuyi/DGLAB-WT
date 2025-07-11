@@ -36,7 +36,7 @@
    ```
 ## 详细版安装说明：
 - 1：首先请先保证你的电脑里安装了python3.13或者更高版本（python安装可以去查b站等等）
-- 2：在命令行输入pip install uv安装uv（因为我就是用的这个我也推荐大家用这个）
+- 2：在命令行（是CMD窗口！！！【CMD窗口打开方式：win+R输入cmd】）输入pip install uv安装uv（因为我就是用的这个我也推荐大家用这个）
 - 3：将右侧Releases 里的1.0里的 downloadme.rar 下载下载
 - 4：创建一个文件夹将 downloadme.rar 解压到这个文件夹里
 - 5：在你创建的这个文件夹的路径下打开cmd窗口输入uv sync这会自动下载所需要的依赖
