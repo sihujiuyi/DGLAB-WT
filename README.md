@@ -41,7 +41,7 @@
 - 4：创建一个文件夹将 downloadme.rar 解压到这个文件夹里
 - 5：在你创建的这个文件夹的路径下打开cmd窗口输入uv sync这会自动下载所需要的依赖
 - 6：那么恭喜你完成了所有的步骤现在双击"点我启动.bat"就可以了
-补充说明：pip install uv如果遇到下载不了的情况可以试试换成命令：pip install uv -i https://pypi.tuna.tsinghua.edu.cn/simple
+补充说明：pip install uv如果遇到下载不了的情况可以试试换成命令： pip install uv -i https://pypi.org/simple
 ## 使用方法
 
 1. 运行War Thunder游戏
